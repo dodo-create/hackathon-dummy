@@ -1,0 +1,14 @@
+{
+  "users": {
+    "user1": { "email": "admin@gmail.com", "password": "123456", "role": "admin" },
+    "user2": { "email": "student@gmail.com", "password": "123456", "role": "student" }
+  },
+  "reports": {
+    "GJ05AB1234": {
+      "vehicle_number": "GJ05AB1234",
+      "violations": 3,
+      "fine": 1500,
+      "status": "unpaid"
+    }
+  }
+}
